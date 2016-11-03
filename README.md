@@ -1,2 +1,2 @@
 # DummyRepo
-This repo will be used for dummy tests and POCs
+This repo will be used for dummy tests and POCs. Happy coding!!!
